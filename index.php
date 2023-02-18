@@ -16,6 +16,7 @@
 <audio controls="controls" autoplay="autoplay">
 <source src="/ImperialMach.mp3" type="audio/mp3">
 Ваш web-браузер не поддерживает HTML элемент «<a href="/html/audio/">audio</a>».
+<p>Test</p>
 </audio>
 </center>
 </body>
