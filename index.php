@@ -11,7 +11,12 @@
 <br><br>
 <a href="http://rcon.test">Ркон панель FoxyTowny</a>
 <br><br>
-<a href="/test/">test проверка apache</a> 
+<a href="/test/">test проверка apache</a>
+<br>
+<audio controls="controls" autoplay="autoplay">
+<source src="/ImperialMach.mp3" type="audio/mp3">
+Ваш web-браузер не поддерживает HTML элемент «<a href="/html/audio/">audio</a>».
+</audio>
 </center>
 </body>
 </html>
