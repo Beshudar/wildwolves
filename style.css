@@ -1,0 +1,39 @@
+html {
+  background-image: url(images/background.jpg);
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-attachment: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+img {
+	border-radius: 150px; /* Радиус скругления */
+    box-shadow: 0 0 0 3px aqua, 0 0 13px #333; /* Параметры теней */
+}
+a{
+  color: #5F5F5F; /* цвет текста */
+  text-decoration: none; /* убирать подчёркивание у ссылок */
+  user-select: none; /* убирать выделение текста */
+  background: aqua; /* фон кнопки */
+  padding: .7em 1.5em; /* отступ от текста */
+  outline: none; /* убирать контур в Mozilla */
+}
+a:hover { background: #30C4BA; } /* при наведении курсора мышки */
+a:active { background: #17858D; } /* при нажатии */
+@font-face {
+	font-family: 'Impact'; 
+	src: url(/fonts/impact.ttf);
+	font-family: 'Font1'; 
+	src: url(/fonts/font1.otf); 
+}
+h1{
+	color: #13B7C3;
+	font-family: 'Font1';
+	font-size: 60px;
+}
+
+/* $server = "178.217.159.170";
+$rconPort = 34578;
+$rconPass = "fg3eoj3245hsio5645jfihj4862t7ysjfh"; */
